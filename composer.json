@@ -1,6 +1,6 @@
 {
 	"name" : "rotrer-webpatser/uuid",
-	"description" : "Clone of webpatser/uuid fixex for Laravel 5.2. Version 2.2.1",
+	"description" : "Clone of webpatser/uuid fixed for Laravel 5.2. Version 2.2.1",
 	"authors" : [{
 			"name" : "Christoph Kempen",
 			"email" : "christoph@downsized.nl"
