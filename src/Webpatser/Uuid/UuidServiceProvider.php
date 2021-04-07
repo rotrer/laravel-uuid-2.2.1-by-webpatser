@@ -6,6 +6,8 @@ use Illuminate\Support\Facades\Validator;
 
 class UuidServiceProvider extends ServiceProvider
 {
+
+    public function register() { }
     /**
      * Bootstrap any application services.
      *
