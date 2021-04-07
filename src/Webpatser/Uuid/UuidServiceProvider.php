@@ -4,8 +4,10 @@ namespace Webpatser\Uuid;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Validator;
 
-abstract class UuidServiceProvider extends ServiceProvider
+class UuidServiceProvider extends ServiceProvider
 {
+
+    public function register() { }
     /**
      * Bootstrap any application services.
      *
